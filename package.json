@@ -1,0 +1,11 @@
+{
+  "name": "truffle-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/RUI-07/truffle-demo.git",
+  "author": "<komairu13868@163.com>",
+  "license": "MIT",
+  "dependencies": {
+    "truffle": "^5.1.58"
+  }
+}
